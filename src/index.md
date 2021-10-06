@@ -1,9 +1,10 @@
 ---
 layout: base.11ty.js
+title: 2019 RAM Rebel For Sale!
 ---
 
-# Hello world
+# 2019 RAM Rebel V6 eTorque For Sale
 
-This is an [11ty](https://11ty.dev) starter with TypeScript templates.
+![White 2019 RAM Rebel](/ramfront1.jpeg)
 
 Check out the [blog](/blog) too!
