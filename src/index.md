@@ -16,4 +16,4 @@ title: 2019 RAM Rebel For Sale!
 
 ## Call 580-304-5662
 
-![White 2019 RAM Rebel](/src/ramfront1.jpeg "2019 White RAM Rebel")
+![White 2019 RAM Rebel](https://i.ibb.co/41QvqZN/ramfront1.jpg "2019 White RAM Rebel")
