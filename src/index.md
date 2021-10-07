@@ -3,12 +3,17 @@ layout: base.11ty.js
 title: 2019 RAM Rebel For Sale!
 ---
 
-# 2019 RAM Rebel V6 eTorque For Sale
+# 2019 White RAM Rebel V6 eTorque For Sale
 
-39K Miles, DualLiner bedliner, BAKFLIP MX4 Tonneau Cover, Bed Lights, Mud Flaps and Rear Wheelwell Liners. 
+- 41K Miles
+- DualLiner Bedliner
+- BAKFLIP MX4 Tonneau Cover
+- Bed Lights
+- Mud Flaps and Rear Wheelwell Liners
+- Dash Cam
 
-Asking $44,600
+### Asking $45,700
 
-# Call 580-304-5662
+## Call 580-304-5662
 
-![White 2019 RAM Rebel](https://images2.imgbox.com/67/d2/vfXekUr9_o.jpeg)
+![White 2019 RAM Rebel](/src/ramfront1.jpeg "2019 White RAM Rebel")
