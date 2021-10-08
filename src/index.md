@@ -6,7 +6,7 @@ title: 2019 RAM Rebel For Sale!
 # 2019 White RAM Rebel V6 eTorque For Sale
 
 - 41K Miles
-- 5yr or 75k mile transferable warranty
+- **5yr or 75k mile transferable warranty**
 - DualLiner Bedliner
 - BAKFLIP MX4 Tonneau Cover
 - Bed Lights
